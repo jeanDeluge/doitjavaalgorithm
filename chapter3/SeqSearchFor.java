@@ -33,5 +33,7 @@ public class SeqSearchFor {
             System.out.println("doesn't exist ");
      else
             System.out.println("exist : x["+idx+"]" );
+    
+    stdIn.close();
     }
 }
